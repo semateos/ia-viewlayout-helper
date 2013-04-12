@@ -3,7 +3,7 @@
     "description": "Utility class for managing layouts and views",
     "homepage": "https://github.com/InnoAccel/ia-viewlayout-helper",
     "author": "Fritz Gerneth <fgerneth@effms.de>",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "git": "https://github.com/InnoAccel/ia-viewlayout-helper.git",
     "packages": {
     }
