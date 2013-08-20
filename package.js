@@ -6,13 +6,12 @@
     });
 
     Package.on_use(function (api, where) {
-        api.use(['deps', 'handlebars'], 'client');
+        api.use(['ia', 'deps', 'handlebars'], 'client');
 
         api.add_files([
             'lib/namespace.js',
             'lib/View.js'
         ], 'client');
 
-        api.export("InnoAccel");
     });
 }(Package));
